@@ -12,7 +12,7 @@ body {
     font-size: 16px;
     font-weight: 300;
     background-color: #fefefa;
-    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png")
+    background-image: url("img/concrete-wall.png")
 }
 
 .secondaryTitle, #contact h2, #partenaires h2 {
@@ -47,7 +47,7 @@ header #header_overlay nav {
     position: fixed;
     background: rgba(22, 141, 175, 0.89);
     font-family: "Montserrat";
-    font-weight: 500;
+    font-weight: 600;
     padding: 10px
 }
 
