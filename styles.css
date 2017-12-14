@@ -28,7 +28,7 @@ header {
     font-family: sans-serif;
     position: relative;
     z-index: 999;
-    background: url(église.jpg) center center;
+    background: url("img/église.jpg") center center;
     -webkit-background-size: cover;
     background-size: cover
 }
@@ -222,7 +222,7 @@ header #header_overlay #content p {
 }
 
 #programme {
-    background: url(parc.jpg) center center;
+    background: url("img/parc.jpg") center center;
     -webkit-background-size: cover;
     background-size: cover
 }
