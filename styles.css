@@ -21,14 +21,15 @@ body {
 header {
     font-family: sans-serif;
     position: relative;
+    background: url("img/86360e60e55b60e6a744968218a2623e.jpg");
     height: 95vh;
-    z-index: 999;
+    z-index: 999; 
 }
 header #logo_mobile {
     display: none; }
 header #header_overlay {
     height: 100%;
-    background: rgba(13, 22, 40, 0.89);
+    background: rgba(0, 0, 0, 0.4);
     border-radius: 10px; }
 header #header_overlay nav {
     width: 100%;
