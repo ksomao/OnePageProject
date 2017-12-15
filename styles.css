@@ -21,7 +21,9 @@ body {
 header {
     font-family: sans-serif;
     position: relative;
-    background: url("img/86360e60e55b60e6a744968218a2623e.jpg");
+    background: url("img/86360e60e55b60e6a744968218a2623e.jpg") center center;
+    -webkit-background-size: cover;
+    background-size: cover;
     height: 95vh;
     z-index: 999; 
 }
