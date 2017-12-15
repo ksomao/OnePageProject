@@ -23,7 +23,7 @@ header {
     position: relative;
     height: 95vh;
     z-index: 999;
-    background: url(86360e60e55b60e6a744968218a2623e.jpg) center center;
+    background: url("img/86360e60e55b60e6a744968218a2623e.jpg") center center;
     -webkit-background-size: cover;
     background-size: cover; }
 header #logo_mobile {
